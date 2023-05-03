@@ -10,3 +10,5 @@ Please let me know if there are any other topics i must need to know in JavaScri
 - For loops
 - Higher order functions(Array Methods) - map(), filter(), reduce()
 - DOM Manipulation 
+- APIs
+- Promises & Async/Await
