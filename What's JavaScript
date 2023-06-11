@@ -1,0 +1,16 @@
+JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
+While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, 
+Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, 
+imperative, and declarative (e.g. functional programming) styles.
+
+just-in-time(JIT) - JavaScript is an interpreted programming language, meaning that the code is executed by an interpreter line by line,
+translating and executing each statement as it encounters them. This approach provides flexibility but can be slower compared to 
+languages that are compiled ahead of time.
+However, modern JavaScript engines, such as V8 (used in Google Chrome) or SpiderMonkey (used in Mozilla Firefox), employ a JIT compiler 
+to optimize the execution of JavaScript code. The JIT compiler dynamically compiles parts of the JavaScript code into a more efficient 
+machine code just before it is executed. This contrasts with traditional interpreters, which directly interpret the source code without 
+any intermediate compilation step.
+
+The JIT compilation process allows JavaScript engines to strike a balance between the flexibility of an interpreted language and the
+performance of a compiled language. By dynamically compiling and optimizing the code, JIT engines can significantly speed up JavaScript
+execution, making it comparable to or even faster than some traditionally compiled languages in certain scenarios.
